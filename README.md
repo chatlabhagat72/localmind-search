@@ -1,4 +1,3 @@
-[🧠 LocalMind Doc-Search_ Private RAG Chat with Your Documents.md](https://github.com/user-attachments/files/24686767/LocalMind.Doc-Search_.Private.RAG.Chat.with.Your.Documents.md)
 # 🧠 LocalMind Doc-Search: Private RAG Chat with Your Documents
 
 ## Introduction
